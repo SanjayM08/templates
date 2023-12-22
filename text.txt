@@ -1,0 +1,3 @@
+temp1 + temp2 = README.md
+
+to run this on your site just run the myscript file 
